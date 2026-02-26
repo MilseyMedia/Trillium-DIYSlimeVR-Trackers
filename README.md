@@ -40,6 +40,7 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 > select SlimeVR 0.5.4
 - Under board type
 > Select Wemos D1 mini
+- Select your main and extension IMU types depending on which chips you have connected
 - Enter the wifi settings for your router
 - Plug in your tracker via the esp32 micro controller and click "Flash to Device"
 
