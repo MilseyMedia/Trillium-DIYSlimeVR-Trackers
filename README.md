@@ -7,8 +7,9 @@ This pcb is designed to use female header pins on the ESP8266 and IMU so parts c
 
 ## Trillium 18650 tracker with extension
 
-<img width="4032" height="3024" alt="Trillium no background" src="https://github.com/user-attachments/assets/7202f849-a4ff-4974-99b6-49af959dda76" />
+![Trillium 18650 assembled](https://github.com/user-attachments/assets/225075f9-a52e-4d4f-893d-219cb48c5408)
 
+![Trillium 18650 disasembled](https://github.com/user-attachments/assets/6cc425b1-5748-4a64-a43f-071cd29bdce4)
 
 <img width="583" height="563" alt="Trillium 18650 PCB layout" src="https://github.com/user-attachments/assets/dc6067dd-3c03-409c-bdfd-2fdc8de107bc" />
 
@@ -23,7 +24,7 @@ This pcb is designed to use female header pins on the ESP8266 and IMU so parts c
 ### Trillium 14500 soldering livestream guide
 https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 
-### Trillium 18650  soldering livestream guide (Coming soon!)
+> Trillium 18650  soldering livestream guide (Coming soon!)
 
 
 
