@@ -58,5 +58,22 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 
 <img width="715" height="549" alt="Butterscotch device connection menu" src="https://github.com/user-attachments/assets/22ee2291-d2cd-475d-b656-a49ddc278692" />
 
+## Connection to the SlimeVR Server
+
+Download The SlimeVR Server app (available on Github at: https://github.com/SlimeVR/SlimeVR-Server/releases)
+
+When you connect your SlimeVR tracker via USB-C to the USB port directly, the SlimeVR Server should be able to detect your tracker
+
+<img width="952" height="595" alt="SlimeVR Server Device Connected" src="https://github.com/user-attachments/assets/a78aa28e-ff05-4b9b-9ef5-1208245694ab" />
+
+If not, click the “Set up Wizard” icons on the left side of the window
+
+<img width="778" height="485" alt="SlimeVR Set up wizard Red arrow" src="https://github.com/user-attachments/assets/d4798c7f-5d04-4ae3-a0bf-6c8e79a88795" />
+
+
+
+
+
+
 
 
