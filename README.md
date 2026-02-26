@@ -70,6 +70,20 @@ If not, click the “Set up Wizard” icons on the left side of the window
 
 <img width="778" height="485" alt="SlimeVR Set up wizard Red arrow" src="https://github.com/user-attachments/assets/d4798c7f-5d04-4ae3-a0bf-6c8e79a88795" />
 
+Enter the wifi credentials for your 2.4Ghz wifi network (or your travel router if over 10 trackers are being used)
+
+<img width="808" height="314" alt="SlimeVR Server Wifi info" src="https://github.com/user-attachments/assets/cf5687ca-5496-469c-b47b-7163e4ed140d" />
+
+Make sure the DIYSlimeVR Tracker is powered on after it is plugged in, so it stays in the Slime VR server.
+
+<img width="550" height="346" alt="SlimeVR connect trackers screen" src="https://github.com/user-attachments/assets/47e5ab46-1d0c-4b91-b5db-66207b83d856" />
+
+*** An initial tracker reboot may be required if the connection doesn’t work on the first try ***
+
+If you move your tracker, you should now see it highlighted in the SlimeVR Server when rotation is detected. 
+
+<img width="960" height="604" alt="SlimeVR Server Trillium connected moving" src="https://github.com/user-attachments/assets/3d62ec5e-d312-4610-9de6-b0df22dbc4dc" />
+
 
 
 
