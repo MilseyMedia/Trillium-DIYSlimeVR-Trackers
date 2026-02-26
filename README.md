@@ -17,6 +17,8 @@ This pcb is designed to use female header pins on the ESP8266 and IMU so parts c
 
 ![Trillium 8 tracker set](https://github.com/user-attachments/assets/9e0e6437-6b27-4b28-88cc-94182e61f8f9)
 
+<img width="461" height="618" alt="Trillium 14500 PCB layout" src="https://github.com/user-attachments/assets/c6bec962-3b64-48e3-b9e3-108513fe3b75" />
+
 
 ### Trillium 14500 soldering livestream guide
 https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
