@@ -24,7 +24,7 @@ This pcb is designed to use female header pins on the ESP8266 and IMU so parts c
 ### Trillium 14500 soldering livestream guide
 https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 
-> Trillium 18650  soldering livestream guide (Coming soon!)
+> Trillium 18650 soldering livestream guide (Coming soon!)
 
 
 ## Parts List
@@ -33,6 +33,12 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 - 14500 or 18650 battery with pin through holder
 - TP4056 usb C charging module 
 - MSS22D18 2P2T 6Pin switch
+- 2.54mm female and male header pins
+- 2.54 Pre Crimped Male and Female Dupont cables + Connectors kit
+- JST ZH 1.5MM 7 Pin connector
+- 180k Resistor
+- 1N5817 Diode
+- 30mm x 400mm Stretchy Velcro straps
 
 ## Firmware Flashing guide
 - in a Google Chrome, Edge or Opera browser go to https://slimevr-firmware.bscotch.ca
@@ -45,4 +51,8 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 - Plug in your tracker via the esp32 micro controller and click "Flash to Device"
 
 <img width="818" height="506" alt="Screenshot 2026-02-26 at 12 26 00 AM" src="https://github.com/user-attachments/assets/e4ef1a6a-ddaf-41c8-9116-90677243b895" />
+
+<img width="658" height="455" alt="Butterscotch Config Marked up" src="https://github.com/user-attachments/assets/33812cb9-74a3-4e2b-bc04-488a5e10f245" />
+
+
 
