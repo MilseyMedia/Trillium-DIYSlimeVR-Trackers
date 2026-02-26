@@ -27,13 +27,21 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 > Trillium 18650  soldering livestream guide (Coming soon!)
 
 
-
-## Bill of Materials
+## Parts List
 - ESP8266
 - IMU (LSM6DSV, ICM45686, BNO085, BNO08X)
 - 14500 or 18650 battery
 - TP4056 usb C charging module 
 - MSS22D18 2P2T 6Pin switch
 
+## Firmware Flashing guide
+- in a Google Chrome, Edge or Opera browser go to https://slimevr-firmware.bscotch.ca
+- Under firmware
+> select SlimeVR 0.5.4
+- Under board type
+> Select Wemos D1 mini
+- Enter the wifi settings for your router
+- Plug in your tracker via the esp32 micro controller and click "Flash to Device"
 
+<img width="818" height="506" alt="Screenshot 2026-02-26 at 12 26 00 AM" src="https://github.com/user-attachments/assets/e4ef1a6a-ddaf-41c8-9116-90677243b895" />
 
