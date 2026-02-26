@@ -30,7 +30,7 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 ## Parts List
 - ESP8266
 - IMU (LSM6DSV, ICM45686, BNO085, BNO08X)
-- 14500 or 18650 battery
+- 14500 or 18650 battery with pin through holder
 - TP4056 usb C charging module 
 - MSS22D18 2P2T 6Pin switch
 
