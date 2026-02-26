@@ -62,7 +62,7 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 
 Download The SlimeVR Server app (available on Github at: https://github.com/SlimeVR/SlimeVR-Server/releases)
 
-When you connect your SlimeVR tracker via USB-C to the USB port directly, the SlimeVR Server should be able to detect your tracker
+When you connect your SlimeVR tracker via USB-C to the Esp32 USB port directly, the SlimeVR Server should be able to detect your tracker
 
 <img width="952" height="595" alt="SlimeVR Server Device Connected" src="https://github.com/user-attachments/assets/a78aa28e-ff05-4b9b-9ef5-1208245694ab" />
 
