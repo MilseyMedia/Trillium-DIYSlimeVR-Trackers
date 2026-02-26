@@ -52,7 +52,11 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 
 <img width="818" height="506" alt="Screenshot 2026-02-26 at 12 26 00 AM" src="https://github.com/user-attachments/assets/e4ef1a6a-ddaf-41c8-9116-90677243b895" />
 
-<img width="658" height="455" alt="Butterscotch Config Marked up" src="https://github.com/user-attachments/assets/33812cb9-74a3-4e2b-bc04-488a5e10f245" />
+<img width="655" height="452" alt="Butterscotch config marked up" src="https://github.com/user-attachments/assets/b9ec0113-eaf7-45c8-a4ca-45ed1e9c74f8" />
+
+<img width="672" height="426" alt="Butterscotch Flash to device button" src="https://github.com/user-attachments/assets/44d0cbb4-b6e0-40ae-b903-7ecb5d1f092e" />
+
+<img width="715" height="549" alt="Butterscotch device connection menu" src="https://github.com/user-attachments/assets/22ee2291-d2cd-475d-b656-a49ddc278692" />
 
 
 
