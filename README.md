@@ -179,6 +179,11 @@ Accept any necessary storage permissions that the headset requests. This will al
 
 <img width="782" height="841" alt="install from unknown apps toggle" src="https://github.com/user-attachments/assets/7f153b1f-2fa5-441b-9dea-97950c1ce1d5" />
 
+After this simply click on the app again with the controllers rear trigger and follow the on screen prompts to install it
+
+<img width="418" height="691" alt="Amaze installing" src="https://github.com/user-attachments/assets/dd5046b6-3cca-4f83-be2d-091625fc7fbd" />
+
+Amaze is an open-source file manager that will allow you to update the SlimeVR server app directly from the headset in the future. Click Done to exit the pop-up window. 
 
 
 
