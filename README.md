@@ -247,6 +247,7 @@ Click connect to confirm that data is being received from the SlimeVR server
 Results:
 https://www.youtube.com/watch?v=_LgbQjhLgG8
 
+<img width="1412" height="1334" alt="Milsey SlimeVR character kick" src="https://github.com/user-attachments/assets/015647a4-be22-4886-85d1-b4e9e6a70fc2" />
 
 
 
