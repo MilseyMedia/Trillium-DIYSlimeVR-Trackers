@@ -87,6 +87,23 @@ If you move your tracker, you should now see it highlighted in the SlimeVR Serve
 <img width="960" height="604" alt="SlimeVR Server Trillium connected moving" src="https://github.com/user-attachments/assets/3d62ec5e-d312-4610-9de6-b0df22dbc4dc" />
 
 
+## Quest (2 or 3) Standalone Set up
+Video Guide from Zrock35: https://www.youtube.com/watch?v=NSsoi9bfH0I
+
+What you’ll need:
+- Any Mac / Windows laptop or computer with a usb port (gaming PC not required)
+- USB C cable for headset and wemos board
+- Quest Headset of choice
+- SlimeVR Tracker
+- SideQuest: https://sidequestvr.com/setup-howto
+- Amaze File Manager : https://github.com/TeamAmaze/AmazeFileManager/releases/tag/v3.10
+- SlimeVR APK: https://github.com/SlimeVR/SlimeVR-Server/releases
+- MobileVR Station: https://www.meta.com/experiences/mobile-vr-station/3887008398005125/?srsltid=AfmBOopr1JRcwfAU0Mtvg5ox1js5XmIhiaDPNUFCYCYtu7o5BD2dGJ66
+
+***Before setting this up, it is assumed that you have already connected your Slime Trackers to your wifi router. Setting up wifi credentials on your headset is currently not possible***
+
+
+
 
 
 
