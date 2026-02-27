@@ -102,6 +102,21 @@ What you’ll need:
 
 ***Before setting this up, it is assumed that you have already connected your Slime Trackers to your wifi router. Setting up wifi credentials on your headset is currently not possible***
 
+## Meta Developer Account Registration
+Video Guide Referenced: https://www.youtube.com/watch?v=K3p3P3fCeHo
+Go to https://developers.meta.com/horizon/ and log in with the same account used on the Meta Quest headset
+
+<img width="1022" height="541" alt="Meta developer account home page" src="https://github.com/user-attachments/assets/6534e0ea-d0c5-4cac-93d6-0aa580c9c129" />
+
+There Maybe a pop up regarding 2FA. Please fill this out. 
+
+On the top right of the window click the <img width="127" height="112" alt="Fork" src="https://github.com/user-attachments/assets/37990b27-6dac-4790-ba60-dd27d9e18195" /> to bring up "Create organization" <img width="394" height="107" alt="Create organization" src="https://github.com/user-attachments/assets/7b50d226-a587-4a7b-a3e7-d814390145e9" />
+
+
+
+
+
+
 
 
 
