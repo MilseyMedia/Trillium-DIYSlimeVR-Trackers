@@ -202,6 +202,64 @@ Launch the SlimeVR Server and enter your wifi or travel router credentials.
 After this, you should be able to turn on your SlimeVR trackers and have them connect to the same wifi network as the VR headset running the Slime VR APK. Make sure that only one instance of the SlimeVR is running on your network at once (ex., not on laptop and headset at the same time)
 
 
+## Blender Motion Capture 
+
+What You’ll Need:
+- Vroid Studio: https://vroid.com/en/studio
+- Blender 5.0: https://www.blender.org/download/
+- VMC4B ($9.44 CAD): https://booth.pm/ja/items/3432915
+- SlimeVR Server: https://github.com/SlimeVR/SlimeVR-Server/releases
+
+## VRM Model Export
+Once your Avatar in Vroid Studio is created Click <img width="98" height="87" alt="Upload arrow" src="https://github.com/user-attachments/assets/b25ecbd1-ad43-4bcd-915a-d877aeb5d1ed" /> to pull up the export window for your character model
+
+ Click Export as VRM
+ <img width="405" height="323" alt="Export as VRM window" src="https://github.com/user-attachments/assets/ec16e72b-c0af-45fc-88c5-30ce16d41e4c" />
+
+ <img width="971" height="549" alt="VRM avatar window arrow" src="https://github.com/user-attachments/assets/107e100b-a879-4a1b-9275-0a12cda26f80" />
+
+<img width="620" height="360" alt="Vroid studio export window pt 2" src="https://github.com/user-attachments/assets/e8dc22b2-76b2-4dd7-9d19-53dbba6df8f7" />
+Click the blue export button on the right side of the window 
+
+<img width="808" height="695" alt="Export settings screen VRM settings" src="https://github.com/user-attachments/assets/eb841fdc-ed09-4a0e-882d-86851ddc1dd0" />
+
+Be sure VRM0.0 is Selected and fill out the title / creator fields 
+<img width="808" height="695" alt="Export settings screen VRM settings" src="https://github.com/user-attachments/assets/b4f03915-cdf3-44b4-86f6-c74fbb96dc9c" />
+
+Once you're done filling out your name and the file name, you can click “Export” and have your file saved to your computer as a .VRM file
+<img width="527" height="268" alt="Screenshot 2026-02-26 at 10 46 01 PM" src="https://github.com/user-attachments/assets/8d86aa2a-d9b6-4569-a01b-e8177d4f5633" />
+
+
+## SlimeVR Server Live Mocap 
+
+In The SlimeVR Server go to settings 
+
+<img width="605" height="379" alt="SlimeVR settings arrow" src="https://github.com/user-attachments/assets/0e53e770-8604-4923-831c-64db22645a6b" />
+
+Next Click on the “VMC” Text bar
+
+<img width="1262" height="759" alt="VMC settings page" src="https://github.com/user-attachments/assets/02f58f6c-4f8a-43a3-9fd3-4bb5b69c0c64" />
+
+Upload your VRM model, designed in Vroid Studio, here to ensure that the forward kinematic bones match. Also, make sure that your Ports and Network address match the same credentials in Blender. 
+
+<img width="216" height="190" alt="VMC4B blender window" src="https://github.com/user-attachments/assets/5c4f49c5-c37b-47eb-8e8a-ec490e084955" />
+
+Click connect to confirm that data is being received from the SlimeVR server
+
+Results:
+https://www.youtube.com/watch?v=_LgbQjhLgG8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
