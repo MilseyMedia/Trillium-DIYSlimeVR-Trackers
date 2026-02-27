@@ -112,6 +112,34 @@ There Maybe a pop up regarding 2FA. Please fill this out.
 
 On the top right of the window click the <img width="127" height="112" alt="Fork" src="https://github.com/user-attachments/assets/37990b27-6dac-4790-ba60-dd27d9e18195" /> to bring up "Create organization" <img width="394" height="107" alt="Create organization" src="https://github.com/user-attachments/assets/7b50d226-a587-4a7b-a3e7-d814390145e9" />
 
+Fill out your organization name → Accept the Terms & Conditions → Submit
+
+<img width="1338" height="662" alt="Meta quest create organization" src="https://github.com/user-attachments/assets/12d7d33d-15e0-48bf-bef1-82937c330837" />
+
+
+Ok, accept, steal my data, harvest my kidneys /j
+
+<img width="775" height="539" alt="Meta NDA agree window" src="https://github.com/user-attachments/assets/27bdc02a-5b10-411f-8dc6-1253c3285852" />
+
+You should now be able to enable developer mode on your headset
+
+## Enabling Developer Permissions on the Quest Headset
+
+click the Meta Quest logo and then settings
+
+<img width="660" height="303" alt="Meta quest navigator button" src="https://github.com/user-attachments/assets/025e9eff-b508-4e53-8f57-e2c96398cca5" />
+
+<img width="1005" height="770" alt="Meta quest navigator menu" src="https://github.com/user-attachments/assets/8907a411-676d-4ccb-a374-19df02c17031" />
+
+Use the joystick or trigger to scroll down to Advanced → Developer → Enable Developer Settings
+
+<img width="815" height="700" alt="Enable developer settings menu headset" src="https://github.com/user-attachments/assets/581db261-dafb-4763-af09-2a081cb0adb8" />
+
+
+
+
+
+
 
 
 
