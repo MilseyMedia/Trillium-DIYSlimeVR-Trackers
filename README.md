@@ -149,6 +149,39 @@ https://www.youtube.com/watch?v=3PsYdVUpQdk.
 - Click on the box with the arrow pointing down to install the Amaze and SlimeVR Apk’s.
 
 
+## MobileVR Station APK installation
+
+Now, you may be saying, “If we already have MobileVR Station, why do we need Amaze?” 
+
+***Mobile VR Station is very sensitive to input button triggers and is generally a buggier / soon-to-be-outdated application compared to Amaze due to sanctions from Meta. As of V78.1028, this method is currently still functioning, but can quickly become broken with a future update. This is why I have also included desktop APK instructions as a failsafe.*** 
+
+From the MetaQuest Store, install Mobile VR Station: https://www.meta.com/experiences/mobile-vr-station/3887008398005125/
+
+<img width="832" height="735" alt="Mobile VR station app" src="https://github.com/user-attachments/assets/606b1474-b3b7-4941-be9b-40118fc63e85" />
+
+Once inside of MobileVR Station go to 
+
+Configuration Wizard → Show All Options → Configure Manage All Files → Open Files All
+
+<img width="737" height="616" alt="Mobile VR station config wizard" src="https://github.com/user-attachments/assets/da28728a-66b3-4832-ba09-ff93a5ccc158" />
+
+<img width="376" height="677" alt="MobileVR remaining windows" src="https://github.com/user-attachments/assets/b1a98d5a-08eb-4349-b97e-8b0be0983943" />
+
+If you can not see your files click “Enable Manage All Files”
+
+You should then be taken to a screen showing your device’s files and downloads
+
+<img width="891" height="702" alt="Headset file viewer menu" src="https://github.com/user-attachments/assets/1f665fa1-a521-48d1-b51d-167d6e9d394d" />
+
+Accept any necessary storage permissions that the headset requests. This will allow us to install files from GitHub / the internet. 
+
+<img width="923" height="789" alt="Settings pop up file viewer" src="https://github.com/user-attachments/assets/6b5487b5-deb9-4136-b999-478346a24433" />
+
+<img width="782" height="841" alt="install from unknown apps toggle" src="https://github.com/user-attachments/assets/7f153b1f-2fa5-441b-9dea-97950c1ce1d5" />
+
+
+
+
 
 
 
