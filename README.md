@@ -54,6 +54,8 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 
 <img width="655" height="452" alt="Butterscotch config marked up" src="https://github.com/user-attachments/assets/b9ec0113-eaf7-45c8-a4ca-45ed1e9c74f8" />
 
+Be sure to set the INT imu pin to ## D7
+
 <img width="672" height="426" alt="Butterscotch Flash to device button" src="https://github.com/user-attachments/assets/44d0cbb4-b6e0-40ae-b903-7ecb5d1f092e" />
 
 <img width="715" height="549" alt="Butterscotch device connection menu" src="https://github.com/user-attachments/assets/22ee2291-d2cd-475d-b656-a49ddc278692" />
