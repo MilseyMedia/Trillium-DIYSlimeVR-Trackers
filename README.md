@@ -136,11 +136,13 @@ Use the joystick or trigger to scroll down to Advanced → Developer → Enable 
 <img width="815" height="700" alt="Enable developer settings menu headset" src="https://github.com/user-attachments/assets/581db261-dafb-4763-af09-2a081cb0adb8" />
 
 ## Desktop SideQuest & APK files Installation
+
 Video Tutorial from Piepop101
 https://www.youtube.com/watch?v=3PsYdVUpQdk.
 
 - Download and install SideQuest on a MacBook or Windows computer
-<img width="962" height="565" alt="Sidequest install apk button" src="https://github.com/user-attachments/assets/2820f643-33ca-48eb-ad32-c5107c77b15f" />
+
+<img width="962" height="565" alt="Sidequest home page red arrow" src="https://github.com/user-attachments/assets/d9842020-e2cf-4857-829b-d90cfe67906a" />
 
 - Connect your headset via USB-C.
 
