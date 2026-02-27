@@ -185,6 +185,23 @@ After this simply click on the app again with the controllers rear trigger and f
 
 Amaze is an open-source file manager that will allow you to update the SlimeVR server app directly from the headset in the future. Click Done to exit the pop-up window. 
 
+To install or update SlimeVR locally on the headset, open Amaze and scroll down to the APK file after downloading the latest version of SlimeVR and uninstalling the old one from the headset. 
+
+<img width="1033" height="777" alt="Unknown sources button" src="https://github.com/user-attachments/assets/822db116-dea3-449b-861d-48b8ac10dd12" />
+
+<img width="479" height="758" alt="Amaze install directions first two pannels" src="https://github.com/user-attachments/assets/4e6b1475-627e-4416-8fbe-204416866621" />
+
+<img width="831" height="628" alt="Just once pop up amaze" src="https://github.com/user-attachments/assets/15b95ef8-405e-4a70-ac54-d5c3ebc11a3e" />
+
+There will be an additional pop-up asking permission to download the SlimeVR application. Please accept them.
+
+Launch the SlimeVR Server and enter your wifi or travel router credentials. 
+
+<img width="774" height="695" alt="SlimeVR Server welcome screen" src="https://github.com/user-attachments/assets/93405733-73f0-4e92-8043-2edd8d9adee0" />
+
+
+
+
 
 
 
