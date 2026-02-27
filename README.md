@@ -199,6 +199,8 @@ Launch the SlimeVR Server and enter your wifi or travel router credentials.
 
 <img width="774" height="695" alt="SlimeVR Server welcome screen" src="https://github.com/user-attachments/assets/93405733-73f0-4e92-8043-2edd8d9adee0" />
 
+After this, you should be able to turn on your SlimeVR trackers and have them connect to the same wifi network as the VR headset running the Slime VR APK. Make sure that only one instance of the SlimeVR is running on your network at once (ex., not on laptop and headset at the same time)
+
 
 
 
