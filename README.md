@@ -221,8 +221,6 @@ Once your Avatar in Vroid Studio is created Click <img width="98" height="87" al
 <img width="620" height="360" alt="Vroid studio export window pt 2" src="https://github.com/user-attachments/assets/e8dc22b2-76b2-4dd7-9d19-53dbba6df8f7" />
 Click the blue export button on the right side of the window 
 
-<img width="808" height="695" alt="Export settings screen VRM settings" src="https://github.com/user-attachments/assets/eb841fdc-ed09-4a0e-882d-86851ddc1dd0" />
-
 Be sure VRM0.0 is Selected and fill out the title / creator fields 
 <img width="808" height="695" alt="Export settings screen VRM settings" src="https://github.com/user-attachments/assets/b4f03915-cdf3-44b4-86f6-c74fbb96dc9c" />
 
