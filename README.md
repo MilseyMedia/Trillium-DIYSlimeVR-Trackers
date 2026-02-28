@@ -240,6 +240,9 @@ Next Click on the “VMC” Text bar
 
 Upload your VRM model, designed in Vroid Studio, here to ensure that the forward kinematic bones match. Also, make sure that your Ports and Network address match the same credentials in Blender. 
 
+
+## Setting up VMC4B in Blender
+
 <img width="216" height="190" alt="VMC4B blender window" src="https://github.com/user-attachments/assets/5c4f49c5-c37b-47eb-8e8a-ec490e084955" />
 
 Click connect to confirm that data is being received from the SlimeVR server
