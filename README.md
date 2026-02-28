@@ -45,9 +45,9 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 
 Using JLCPCB, click "order now" and drag the Gerber zip file from the repository into the file drop location.
 
-1.6mm board width
-Lead-free HASL
-FR-4 Base Material
+- 1.6mm board width
+- Lead-free HASL
+- FR-4 Base Material
 
 
 
