@@ -40,6 +40,17 @@ https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
 - 1N5817 Diode
 - 30mm x 400mm Stretchy Velcro straps
 
+## PCB ordering Guide
+<img width="1219" height="779" alt="JLCPCB ordering guide" src="https://github.com/user-attachments/assets/a3c8c45a-3c43-4293-b2f4-e26773d8859c" />
+
+Using JLCPCB, click "order now" and drag the Gerber zip file from the repository into the file drop location.
+
+1.6mm board width
+Lead-free HASL
+FR-4 Base Material
+
+
+
 ## Firmware Flashing guide
 - in a Google Chrome, Edge or Opera browser go to https://slimevr-firmware.bscotch.ca
 - Under firmware
