@@ -255,11 +255,19 @@ Drag and drop the zip file into blender to install it
 <img width="756" height="582" alt="install from disk pop up" src="https://github.com/user-attachments/assets/4af49005-a0c7-4688-a123-68d3b9b1990d" />
 
 
+File -> Import -> .VRM
+
+<img width="480" height="555" alt="VRM import guide blender" src="https://github.com/user-attachments/assets/eaef5a13-8e0c-46ce-8d72-40a50ef43bd2" />
+
+<img width="1408" height="848" alt="VRM armature selection" src="https://github.com/user-attachments/assets/e4b37a94-fb08-4ca1-90cd-b0c10c196048" />
+
+Click the bone to select it, then open up your side panel in Blender by pressing N on your keyboard. Select the "Armature" option from the drop down menu
+
 <img width="216" height="190" alt="VMC4B blender window" src="https://github.com/user-attachments/assets/5c4f49c5-c37b-47eb-8e8a-ec490e084955" />
 
 Click connect to confirm that data is being received from the SlimeVR server
 
-Make sure the ip adress and ports in / out match up with blender
+Make sure the ip adress and ports in / out match up with Blender
 
 Results:
 https://www.youtube.com/watch?v=_LgbQjhLgG8
