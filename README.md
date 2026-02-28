@@ -14,7 +14,7 @@ This pcb is designed to use female header pins on the ESP8266 and IMU so parts c
 <img width="383" height="363" alt="Trillium 18650 PCB layout" src="https://github.com/user-attachments/assets/dc6067dd-3c03-409c-bdfd-2fdc8de107bc" />
 
 
-## Full body set of 8 trillium 14500 trackers
+## Full body set of 8 Trillium 14500 trackers
 
 ![Trillium 8 tracker set](https://github.com/user-attachments/assets/9e0e6437-6b27-4b28-88cc-94182e61f8f9)
 
