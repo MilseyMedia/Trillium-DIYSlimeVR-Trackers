@@ -243,9 +243,23 @@ Upload your VRM model, designed in Vroid Studio, here to ensure that the forward
 
 ## Setting up VMC4B in Blender
 
+Edit -> Preferences -> Addons -> and install the VRM format addon
+
+<img width="874" height="660" alt="Blender VRM format addon" src="https://github.com/user-attachments/assets/21e15ca7-0290-4d2d-9c24-23474288b203" />
+
+
+If the download from booth shows up as a folder, please compress it into a zip file
+
+Drag and drop the zip file into blender to install it
+
+<img width="756" height="582" alt="install from disk pop up" src="https://github.com/user-attachments/assets/4af49005-a0c7-4688-a123-68d3b9b1990d" />
+
+
 <img width="216" height="190" alt="VMC4B blender window" src="https://github.com/user-attachments/assets/5c4f49c5-c37b-47eb-8e8a-ec490e084955" />
 
 Click connect to confirm that data is being received from the SlimeVR server
+
+Make sure the ip adress and ports in / out match up with blender
 
 Results:
 https://www.youtube.com/watch?v=_LgbQjhLgG8
