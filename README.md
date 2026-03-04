@@ -21,24 +21,23 @@ This pcb is designed to use female header pins on the ESP8266 and IMU so parts c
 <img width="461" height="618" alt="Trillium 14500 PCB layout" src="https://github.com/user-attachments/assets/c6bec962-3b64-48e3-b9e3-108513fe3b75" />
 
 
-### Trillium 14500 soldering livestream guide
-https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id
+### [Trillium 14500 soldering livestream guide](https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id)
 
-> Trillium 18650 soldering livestream guide (Coming soon!)
+> Trillium 18650 soldering livestream guide Coming March 6, 2026
 
 
 ## Parts List
-- ESP8266
+- [ESP8266 USB-C version](https://www.aliexpress.com/item/1005007877904928.html?spm=a2g0o.order_list.order_list_main.10.13be1802HgETiE)
 - IMU (LSM6DSV, ICM45686, BNO085, BNO08X)
 - 14500 or 18650 battery with pin through holder
-- TP4056 usb C charging module 
-- MSS22D18 2P2T 6Pin switch
-- 2.54mm female and male header pins
-- 2.54 Pre Crimped Male and Female Dupont cables + Connectors kit
-- JST ZH 1.5MM 7 Pin connector
-- 180k Resistor
-- 1N5817 Diode
-- 30mm x 400mm Stretchy Velcro straps
+- [TP4056 USB-C charging module](https://www.aliexpress.com/item/32649780468.html?spm=a2g0o.order_list.order_list_main.50.13be1802HgETiE) 
+- [MSS22D18 2P2T 6Pin switch](https://www.aliexpress.com/item/4000699849055.html?spm=a2g0o.productlist.main.1.41aa6d8aSzOAC4&algo_pvid=0c0f082c-a444-4a1e-ba30-c9aa43c2c727&algo_exp_id=0c0f082c-a444-4a1e-ba30-c9aa43c2c727-0&pdp_ext_f=%7B%22order%22%3A%2238%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%215.00%214.05%21%21%213.57%212.89%21%40210328df17726608201306737eea9a%2110000006192024429%21sea%21CA%211616760453%21X%211%210%21n_tag%3A-29919%3Bd%3A16d45553%3Bm03_new_user%3A-29895&curPageLogUid=wtDTKdXzcQws&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000699849055%7C_p_origin_prod%3A)
+- [2.54mm female and male header pins](https://www.amazon.ca/Glarks-Straight-Connector-Assortment-Prototype/dp/B076GZXW3Z/ref=sr_1_1_sspa?crid=1F5HH5P9G9L88&dib=eyJ2IjoiMSJ9.TjZF0QBunFjT26SU9773UD2hgOS2woq0mgpehM-NIKy0V6c8JdizhsFmLFRs7Y_jxlFxUztN0teE8DT8oWCxGbgVASyACmYCluQU6fSojoR0BQIEMohuY0NLzc71G022ffutjDqo7BgS8VLZ_swpRCRuDSfTmgJucqK1tB5XLdhwmk40ncnR5hoOPM0eGA2HVnUCIrZa_umHOz0rs1uR6eRYj8daQCCQDO_Oo-wH1Mj8cI5F-Lpkcoq_npY8x_HfgaSnVguYkmuWvixLWKqFKqsRZZq09hhjfhCalpDvTNA.BEdFa2kkjL4L2uupkoxIJ3ZbaKjK5BBVc6-Ie2XX61A&dib_tag=se&keywords=female+header+pins&qid=1772661010&sprefix=female+header+pins%2Caps%2C148&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- [2.54 Pre Crimped Male and Female Dupont cables + Connectors kit](https://www.amazon.ca/dp/B07S743PLP?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [JST ZH 1.5MM 7 Pin connector](https://www.aliexpress.com/item/1005006918030218.html?spm=a2g0o.productlist.main.5.54b93LKf3LKfZH&algo_pvid=6d7cedda-086a-455d-9676-f43d9aa4318f&algo_exp_id=6d7cedda-086a-455d-9676-f43d9aa4318f-4&pdp_ext_f=%7B%22order%22%3A%22453%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%212.58%212.50%21%21%2112.73%2112.32%21%4021033d1217726650921082797e5154%2112000038722445974%21sea%21CA%211616760453%21X%211%210%21n_tag%3A-29919%3Bd%3A16d45553%3Bm03_new_user%3A-29895&curPageLogUid=U5LQq4tWU5pQ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006918030218%7C_p_origin_prod%3A)
+- [180k Resistor](https://www.aliexpress.com/item/1005002994755806.html?spm=a2g0o.order_list.order_list_main.85.13be1802HgETiE&gatewayAdapt=4itemAdapt)
+- [1N5817 Diode](https://www.aliexpress.com/item/1005001552094086.html?spm=a2g0o.order_list.order_list_main.90.13be1802HgETiE&gatewayAdapt=4itemAdapt)
+- [30mm x 400mm Stretchy Velcro straps](https://www.aliexpress.com/item/1005006869319882.html?spm=a2g0o.order_list.order_list_main.100.13be1802HgETiE)
 
 ## PCB ordering Guide
 <img width="1219" height="779" alt="JLCPCB ordering guide" src="https://github.com/user-attachments/assets/a3c8c45a-3c43-4293-b2f4-e26773d8859c" />
