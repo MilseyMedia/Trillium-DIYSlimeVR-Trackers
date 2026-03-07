@@ -23,7 +23,7 @@ This pcb is designed to use female header pins on the ESP8266 and IMU so parts c
 
 ### [Trillium 14500 soldering livestream guide](https://www.youtube.com/live/_fhmWKOj-kA?si=LMQn1sJzI0ec3_Id)
 
-> Trillium 18650 soldering livestream guide Coming March 6, 2026
+> Trillium 18650 soldering livestream guide Coming March 2026
 
 
 ## Parts List
