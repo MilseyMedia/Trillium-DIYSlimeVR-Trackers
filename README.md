@@ -2,8 +2,6 @@
 
 This PCB was designed so I could have a modular wrist and hand tracker that could easily be travelled with. Also used with the [Fireweed Flex Sensor Glove](https://github.com/MilseyMedia/Fireweed-DIYSlimeVR-Flex-Gloves)
 
-This PCB uses female header pins on the ESP8266 and IMU so parts can we swap out those parts in event of Updated IMU's or defective ESP32's
-
 
 ## Trillium 18650 tracker with extension
 
