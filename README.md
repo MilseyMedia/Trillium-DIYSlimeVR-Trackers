@@ -49,24 +49,16 @@ Using JLCPCB, click "order now" and drag the Gerber zip file from the repository
 
 
 ## Firmware Flashing guide
-- in a Google Chrome, Edge or Opera browser go to https://slimevr-firmware.bscotch.ca
-- Under firmware
-> select SlimeVR 0.5.4
-- Under board type
-> Select Wemos D1 mini
-- Select your main and extension IMU types depending on which chips you have connected
+- Download the latest SlimeVR server app on mac, PC, or Linux at https://slimevr.dev
+- Settings -> Utilities -> DIY firmware Tool
+> select SlimeVR main, ESP32 Wemos D1 mini, and firmware 0.7.2
+<img width="1724" height="982" alt="DIY Firmware Tool step 1" src="https://github.com/user-attachments/assets/d2d40f2b-4cf3-4598-b605-c508653f1dd9" />
+- Select your main and extension IMU types depending on which chips you have connected. For the Trillium Trackers, be sure to set the extension pin to D7
+<img width="1718" height="973" alt="DIY Firmware Tool Step 2" src="https://github.com/user-attachments/assets/3a09cda0-9e95-4576-a191-264747820034" />
 - Enter the wifi settings for your router
-- Plug in your tracker via the esp32 micro controller and click "Flash to Device"
+- Plug in your tracker via the ESP32 microcontroller and click "Flash to Device"
+<img width="1711" height="973" alt="DIY Firmware tool Step 3" src="https://github.com/user-attachments/assets/48bb1fb6-f86a-43d3-8f8a-03c15a7f66ba" />
 
-<img width="818" height="506" alt="Screenshot 2026-02-26 at 12 26 00 AM" src="https://github.com/user-attachments/assets/e4ef1a6a-ddaf-41c8-9116-90677243b895" />
-
-<img width="655" height="452" alt="Butterscotch config marked up" src="https://github.com/user-attachments/assets/b9ec0113-eaf7-45c8-a4ca-45ed1e9c74f8" />
-
-Be sure to set the INT imu extension pin to D7
-
-<img width="672" height="426" alt="Butterscotch Flash to device button" src="https://github.com/user-attachments/assets/44d0cbb4-b6e0-40ae-b903-7ecb5d1f092e" />
-
-<img width="715" height="549" alt="Butterscotch device connection menu" src="https://github.com/user-attachments/assets/22ee2291-d2cd-475d-b656-a49ddc278692" />
 
 ## Connection to the SlimeVR Server
 
@@ -104,9 +96,7 @@ What you’ll need:
 - Quest Headset of choice
 - SlimeVR Tracker
 - SideQuest: https://sidequestvr.com/setup-howto
-- Amaze File Manager : https://github.com/TeamAmaze/AmazeFileManager/releases/tag/v3.10
 - SlimeVR APK: https://github.com/SlimeVR/SlimeVR-Server/releases
-- MobileVR Station: https://www.meta.com/experiences/mobile-vr-station/3887008398005125/?srsltid=AfmBOopr1JRcwfAU0Mtvg5ox1js5XmIhiaDPNUFCYCYtu7o5BD2dGJ66
 
 ***Before setting this up, it is assumed that you have already connected your Slime Trackers to your wifi router. Setting up wifi credentials on your headset is currently not possible***
 
@@ -124,7 +114,6 @@ Fill out your organization name → Accept the Terms & Conditions → Submit
 
 <img width="1338" height="662" alt="Meta quest create organization" src="https://github.com/user-attachments/assets/12d7d33d-15e0-48bf-bef1-82937c330837" />
 
-
 Ok, accept, steal my data, harvest my kidneys /j
 
 <img width="775" height="539" alt="Meta NDA agree window" src="https://github.com/user-attachments/assets/27bdc02a-5b10-411f-8dc6-1253c3285852" />
@@ -133,7 +122,7 @@ You should now be able to enable developer mode on your headset
 
 ## Enabling Developer Permissions on the Quest Headset
 
-click the Meta Quest logo and then settings
+Click the Meta Quest logo and then settings
 
 <img width="660" height="303" alt="Meta quest navigator button" src="https://github.com/user-attachments/assets/025e9eff-b508-4e53-8f57-e2c96398cca5" />
 
@@ -142,6 +131,22 @@ click the Meta Quest logo and then settings
 Use the joystick or trigger to scroll down to Advanced → Developer → Enable Developer Settings
 
 <img width="815" height="700" alt="Enable developer settings menu headset" src="https://github.com/user-attachments/assets/581db261-dafb-4763-af09-2a081cb0adb8" />
+
+
+## On headset installation
+
+Access the SlimeVR Android APK file at: https://github.com/SlimeVR/SlimeVR-Server/releases
+
+Once downloaded, go to your on-device file manager and select package installer 
+
+<img width="278" height="247" alt="Package installer for slimevr server apk" src="https://github.com/user-attachments/assets/9a38c487-fd01-48ab-a337-e5325a61e945" />
+
+Click "install" and then "Done
+
+<img width="242" height="323" alt="SlimeVR headset install" src="https://github.com/user-attachments/assets/452b80ed-be08-4894-bd87-276c6ced9e9b" />
+
+<img width="233" height="305" alt="SlimeVR Headset Done" src="https://github.com/user-attachments/assets/34067dfd-8e1a-4e0a-a082-8e486e80d440" />
+
 
 ## Desktop SideQuest & APK files Installation
 
@@ -156,52 +161,6 @@ https://www.youtube.com/watch?v=3PsYdVUpQdk.
 
 - Click on the box with the arrow pointing down to install the Amaze and SlimeVR Apk’s.
 
-
-## MobileVR Station APK installation
-
-Now, you may be saying, “If we already have MobileVR Station, why do we need Amaze?” 
-
-***Mobile VR Station is very sensitive to input button triggers and is generally a buggier / soon-to-be-outdated application compared to Amaze due to sanctions from Meta. As of V78.1028, this method is currently still functioning, but can quickly become broken with a future update. This is why I have also included desktop APK instructions as a failsafe.*** 
-
-From the MetaQuest Store, install Mobile VR Station: https://www.meta.com/experiences/mobile-vr-station/3887008398005125/
-
-<img width="832" height="735" alt="Mobile VR station app" src="https://github.com/user-attachments/assets/606b1474-b3b7-4941-be9b-40118fc63e85" />
-
-Once inside of MobileVR Station go to 
-
-Configuration Wizard → Show All Options → Configure Manage All Files → Open Files All
-
-<img width="737" height="616" alt="Mobile VR station config wizard" src="https://github.com/user-attachments/assets/da28728a-66b3-4832-ba09-ff93a5ccc158" />
-
-<img width="376" height="677" alt="MobileVR remaining windows" src="https://github.com/user-attachments/assets/b1a98d5a-08eb-4349-b97e-8b0be0983943" />
-
-If you can not see your files click “Enable Manage All Files”
-
-You should then be taken to a screen showing your device’s files and downloads
-
-<img width="891" height="702" alt="Headset file viewer menu" src="https://github.com/user-attachments/assets/1f665fa1-a521-48d1-b51d-167d6e9d394d" />
-
-Accept any necessary storage permissions that the headset requests. This will allow us to install files from GitHub / the internet. 
-
-<img width="923" height="789" alt="Settings pop up file viewer" src="https://github.com/user-attachments/assets/6b5487b5-deb9-4136-b999-478346a24433" />
-
-<img width="782" height="841" alt="install from unknown apps toggle" src="https://github.com/user-attachments/assets/7f153b1f-2fa5-441b-9dea-97950c1ce1d5" />
-
-After this simply click on the app again with the controllers rear trigger and follow the on screen prompts to install it
-
-<img width="418" height="691" alt="Amaze installing" src="https://github.com/user-attachments/assets/dd5046b6-3cca-4f83-be2d-091625fc7fbd" />
-
-Amaze is an open-source file manager that will allow you to update the SlimeVR server app directly from the headset in the future. Click Done to exit the pop-up window. 
-
-To install or update SlimeVR locally on the headset, open Amaze and scroll down to the APK file after downloading the latest version of SlimeVR and uninstalling the old one from the headset. 
-
-<img width="1033" height="777" alt="Unknown sources button" src="https://github.com/user-attachments/assets/822db116-dea3-449b-861d-48b8ac10dd12" />
-
-<img width="479" height="758" alt="Amaze install directions first two pannels" src="https://github.com/user-attachments/assets/4e6b1475-627e-4416-8fbe-204416866621" />
-
-<img width="831" height="628" alt="Just once pop up amaze" src="https://github.com/user-attachments/assets/15b95ef8-405e-4a70-ac54-d5c3ebc11a3e" />
-
-There will be an additional pop-up asking permission to download the SlimeVR application. Please accept them.
 
 Launch the SlimeVR Server and enter your wifi or travel router credentials. 
 
