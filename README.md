@@ -51,7 +51,7 @@ Using JLCPCB, click "order now" and drag the Gerber zip file from the repository
 ## Firmware Flashing guide
 - Download the latest SlimeVR server app on mac, PC, or Linux at https://slimevr.dev
 - Settings -> Utilities -> DIY firmware Tool
-> select SlimeVR main, ESP32 Wemos D1 mini, and firmware 0.7.2
+- Select SlimeVR main, ESP32 Wemos D1 mini, and firmware 0.7.2
 <img width="1724" height="982" alt="DIY Firmware Tool step 1" src="https://github.com/user-attachments/assets/d2d40f2b-4cf3-4598-b605-c508653f1dd9" />
 - Select your main and extension IMU types depending on which chips you have connected. For the Trillium Trackers, be sure to set the extension pin to D7
 <img width="1718" height="973" alt="DIY Firmware Tool Step 2" src="https://github.com/user-attachments/assets/3a09cda0-9e95-4576-a191-264747820034" />
